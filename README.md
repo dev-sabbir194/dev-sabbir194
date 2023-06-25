@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sabbir194&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sabbir194" /> </p>
 
-- 🌱 I’m currently learning **React-native, Web-Socket** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🌱 I’m currently learning ** React ** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **Full Stack Web-development** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 💬 Ask me about **Front-End Development** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📫 How to reach me **hossainmdsabbir194@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
