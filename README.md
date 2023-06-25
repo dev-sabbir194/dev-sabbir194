@@ -1,7 +1,7 @@
 <!-- <img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding"> -->
 
 <h1 align="center">Hi 👋, I'm MD SABBIR</h1>
-<h3 align="center">Highly motivated and detail-oriented frontend developer seeking an entry-level position to utilize my exceptional skills in HTML, CSS, and JavaScript to create captivating and interactive web experiences that delight users.</h3>
+<h3 align="center">I am an experienced and disciplined web developer with a strong technical skill set. My commitment lies in creating accessible and user-friendly websites. With over 800+ hours of coding experience, I possess a deep understanding of various programming languages and frameworks. I am a quick learner, constantly seeking new knowledge and staying up to date with the latest industry trends. As a clear communicator, I excel at conveying complex concepts to both technical and non-technical stakeholders. I am highly self-motivated and thrive in independent work environments, consistently delivering high-quality results.</h3>
 
 <img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
