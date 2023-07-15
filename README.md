@@ -80,7 +80,7 @@
 		<img width="33%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sabbir194&layout=compact&hide_border=true&theme=radical" />
 	</a>
 	<a href="https://github.com/dev-sabbir194">
-		<img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sabbir194&theme=radical" alt="Atanu Github overview"/>
+		<img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-sabbir194&theme=radical" alt="Sabbir Github overview"/>
 	</a>
 </p>
 
