@@ -87,7 +87,7 @@
 
 <p align="center">
 	<a href="https://github.com/dev-sabbir194">
-  		<img width="47%" src="https://github-readme-stats.vercel.app/api?username=dev-sabbir194&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="dev-sabbir194" />
+  		<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-sabbir194&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="dev-sabbir194" />
 	</a>
 	<a href="https://github.com/dev-sabbir194">
 		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sabbir194&layout=compact&hide_border=true&theme=radical" alt="dev-sabbir194" />
