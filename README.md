@@ -62,6 +62,10 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
+
+## Certificate  https://cdn-icons-png.flaticon.com/512/3135/3135807.png
+![certificate1](https://github.com/dev-sabbir194/dev-sabbir194/assets/121635899/8b9990eb-6fa9-47d7-9d02-71d761bc41f5)
+
 <!-- Trophies -->
 
 ## Trophies 🏆
@@ -71,7 +75,7 @@
 	</a>
 </p> 
 
-## Certificate  fa-icon-certificate #12296
+
 
 <!-- Github Stats -->
 
