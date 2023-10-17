@@ -71,6 +71,8 @@
 	</a>
 </p> 
 
+## Certificate  fa-icon-certificate #12296
+
 <!-- Github Stats -->
 
 ## Github Stats ✨
